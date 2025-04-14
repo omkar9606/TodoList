@@ -82,8 +82,7 @@ Clone the repository:
 
 bash
 
-Copy
-git clone https://github.com/your-username/todo-app.git
+
 cd todo-app
 Set up the backend:
 
